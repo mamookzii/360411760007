@@ -7,7 +7,7 @@ public class mycode {
       System.out.println("Naputsorn Phanchai");
       System.out.println("360411760007");
       System.out.println("MIT421");
-      System.out.println("RMUTSV");
+
 
 
 
