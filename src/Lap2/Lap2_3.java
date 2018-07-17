@@ -15,6 +15,10 @@ public class Lap2_3 {
         //output
         System.out.println("Celsius is"+Celsius);
 
+        System.out.println("Celsius is"+Celsius);
+        System.out.println("Celsius is"+Celsius);
+        System.out.println("Celsius is"+Celsius);
+
 
 
 
